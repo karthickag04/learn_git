@@ -4,3 +4,6 @@ https://chatgpt.com/share/69c4c1cf-b9b4-8321-922d-febf7aa5996c
 
 Git usage complete ref added
 https://chatgpt.com/share/6a0465a2-aa60-83ec-8a89-85ee23651995
+
+Git merge and log usage
+https://chatgpt.com/share/6a046ea2-63d8-83ec-a7ed-80df3e593dea
